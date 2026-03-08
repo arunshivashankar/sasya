@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1290" height="2796" viewBox="0 0 1290 2796">
+  <rect width="1290" height="2796" fill="#f0fdf4"/>
+  <g transform="translate(525, 1150)">
+    <rect width="240" height="240" rx="54" fill="#10B981"/>
+    <g transform="translate(120, 50)" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 140 C0 140 -10 60 0 20 C10 60 0 140 0 140Z" fill="white" stroke="none"/>
+      <path d="M0 20 L0 140"/>
+      <path d="M0 50 L-20 35"/>
+      <path d="M0 75 L20 60"/>
+      <path d="M0 100 L-18 88"/>
+    </g>
+  </g>
+  <text x="645" y="1460" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="52" font-weight="700" fill="#1f2937">Plant Care</text>
+  <text x="645" y="1510" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="28" fill="#6b7280">Smart Scheduling</text>
+</svg>
